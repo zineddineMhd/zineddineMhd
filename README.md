@@ -64,16 +64,6 @@ pandas · NumPy · Jupyter · Kaggle · grouped validation · ablation studies �
 
 ---
 
-## Research interests
-
-- **Reliable ML evaluation** — leakage prevention, robust validation, domain shift and honest model comparison
-- **NLP & Information Retrieval** — text classification, passage retrieval, semantic representations and hybrid retrieval
-- **Explainable AI** — interpretable decisions and counterfactual reasoning
-- **Knowledge Graphs & Reasoning** — structured knowledge, RDF and reasoning over symbolic representations
-- **Neuro-Symbolic AI** — combining learned representations with explicit rules and structured inference
-- **Adaptive AI systems** — learning compact user/world representations that can support downstream decision-making
-
----
 
 ## Education
 
