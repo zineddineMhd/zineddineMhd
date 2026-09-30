@@ -78,18 +78,30 @@ pandas · NumPy · Jupyter · Kaggle · grouped validation · ablation studies �
 |---|---|
 | **2026–2027** | **M2 MIND — Machine Learning, Artificial Intelligence & Data**, Sorbonne Université |
 | **2025–2026** | **M1 MIND**, Sorbonne Université |
-| **2024–2025** | **BSc / L3 Computer Science**, Université Sorbonne Paris Nord |
+| **2024–2025** | **Licence Informatique (L3)**, CY Cergy Paris Université |
 
 <details>
-<summary><b>Relevant M2 coursework</b></summary>
+<summary><b>Relevant coursework</b></summary>
 <br/>
 
-- Explainable AI (XAI)
-- Deep Learning
-- Advanced Deep Learning
-- Data & Knowledge Graphs
-- RDFIA
-- MEDS
+**M2 (2026–2027):**  
+[Deep Learning](https://mind.sorbonne-universite.fr/cours/m2/deep-l/) ·
+[Advanced Deep Learning: Generative Models & AI for Science](https://mind.sorbonne-universite.fr/cours/m2/adl/) ·
+[eXplainable Artificial Intelligence](https://mind.sorbonne-universite.fr/cours/m2/xai/) ·
+[Pattern Recognition for Image Analysis and Interpretation](https://mind.sorbonne-universite.fr/cours/m2/rdfia/) ·
+[Data & Knowledge Graphs](https://mind.sorbonne-universite.fr/cours/m2/gdc/) ·
+[Methodology in Data Science and Research](https://mind.sorbonne-universite.fr/cours/m2/meds/)
+
+**M1 (2025–2026):**  
+[Machine Learning](https://mind.sorbonne-universite.fr/cours/m1/ml/) ·
+[Information Retrieval & NLP](https://mind.sorbonne-universite.fr/cours/m1/rital/) ·
+[Introduction to Deep Learning](https://mind.sorbonne-universite.fr/cours/m1/idle/) ·
+[Artificial Intelligence & Symbolic Information Processing](https://mind.sorbonne-universite.fr/cours/m1/iamsi/) ·
+[Logic & Knowledge Representation](https://mind.sorbonne-universite.fr/cours/m1/lrc/) ·
+[Advanced Database Models & Languages](https://mind.sorbonne-universite.fr/cours/m1/mlbda/) ·
+[Probabilistic & Statistical Models and Algorithms](https://mind.sorbonne-universite.fr/cours/m1/mapsi/) ·
+[Data Science, Learning & Applications](https://mind.sorbonne-universite.fr/cours/m1/dalas/) ·
+[Research Project (PMIND)](https://mind.sorbonne-universite.fr/cours/m1/pmind/)
 
 </details>
 
