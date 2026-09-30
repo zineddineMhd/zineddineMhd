@@ -53,6 +53,9 @@ Python · PyTorch · scikit-learn · LightGBM · XGBoost · model evaluation · 
 **NLP & Information Retrieval**  
 Transformers · Hugging Face · BERT / RoBERTa / CamemBERT · TF-IDF / SVM · passage retrieval · ranking · relevance feedback
 
+**Computer Vision & Image Analysis — coursework**  
+Image processing · filtering & denoising · edge detection · segmentation · CNNs · Vision Transformers · self-supervised learning · diffusion models · robustness · transfer learning · domain adaptation
+
 **Knowledge & Reasoning**  
 Knowledge representation · logic-based AI · knowledge graphs · RDF · symbolic reasoning · neuro-symbolic AI
 
@@ -88,7 +91,7 @@ pandas · NumPy · Jupyter · Kaggle · grouped validation · ablation studies �
 [Deep Learning](https://mind.sorbonne-universite.fr/cours/m2/deep-l/) ·
 [Advanced Deep Learning: Generative Models & AI for Science](https://mind.sorbonne-universite.fr/cours/m2/adl/) ·
 [eXplainable Artificial Intelligence](https://mind.sorbonne-universite.fr/cours/m2/xai/) ·
-[Pattern Recognition for Image Analysis and Interpretation](https://mind.sorbonne-universite.fr/cours/m2/rdfia/) ·
+[Pattern Recognition for Image Analysis & Interpretation (RDFIA)](https://mind.sorbonne-universite.fr/cours/m2/) — **image classification & segmentation, CNNs, Vision Transformers, self-supervised learning, vision-language models, diffusion models, robustness, explainability, transfer learning & domain adaptation** ·
 [Data & Knowledge Graphs](https://mind.sorbonne-universite.fr/cours/m2/gdc/) ·
 [Methodology in Data Science and Research](https://mind.sorbonne-universite.fr/cours/m2/meds/)
 
@@ -100,6 +103,7 @@ pandas · NumPy · Jupyter · Kaggle · grouped validation · ablation studies �
 [Logic & Knowledge Representation](https://mind.sorbonne-universite.fr/cours/m1/lrc/) ·
 [Advanced Database Models & Languages](https://mind.sorbonne-universite.fr/cours/m1/mlbda/) ·
 [Probabilistic & Statistical Models and Algorithms](https://mind.sorbonne-universite.fr/cours/m1/mapsi/) ·
+[Fundamentals of Image Processing (BIMA)](https://sciences.sorbonne-universite.fr/node/8889) — **Fourier analysis, image acquisition & sampling, filtering & denoising, edge detection, segmentation, key-point detection & face-recognition applications** ·
 [Data Science, Learning & Applications](https://mind.sorbonne-universite.fr/cours/m1/dalas/) ·
 [Research Project (PMIND)](https://mind.sorbonne-universite.fr/cours/m1/pmind/)
 
