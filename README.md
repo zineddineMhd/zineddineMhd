@@ -45,25 +45,22 @@ Each repository is presented as a technical/research project with its methodolog
 
 ---
 
-## Current technical focus
+## Technical skills
 
-**Machine Learning & Deep Learning**  
-Python · PyTorch · scikit-learn · LightGBM · XGBoost · model evaluation · feature engineering · representation learning
+| | Area | Skills |
+|---|---|---|
+| 🤖 | **Machine Learning** | `Supervised learning` · `SVM` · `k-NN` · `Ensemble methods` · `Boosting` · `Clustering` · `Dimensionality reduction` · `Feature engineering` · `Model selection` · `Class imbalance` |
+| 🧠 | **Deep Learning & Representation Learning** | `Backpropagation` · `MLPs` · `CNNs` · `RNNs` · `Attention` · `Transformers` · `Embeddings` · `DeepSets` · `Transfer learning` · `Self-supervised learning` |
+| 💬 | **NLP & Information Retrieval** | `TF-IDF` · `Word/char n-grams` · `FastText` · `BERT` · `RoBERTa` · `CamemBERT` · `Long-document classification` · `Passage retrieval` · `QL` · `SDM` · `Ranking` · `Relevance feedback` |
+| 👁️ | **Computer Vision & Image Analysis** | `Fourier analysis` · `Filtering & denoising` · `Edge detection` · `Segmentation` · `Keypoint detection` · `Image classification` · `Vision Transformers` · `Robustness` · `Domain adaptation` |
+| 🧩 | **Knowledge Representation & Reasoning** | `First-order logic` · `Description logic` · `Prolog` · `SAT / ASP` · `Knowledge-based systems` · `Planning` · `Causality` · `RDF` · `Knowledge graphs` · `Symbolic reasoning` |
+| 🔎 | **Explainability & Experimental Methodology** | `Counterfactual explanations` · `Model interpretability` · `Leakage prevention` · `Grouped validation` · `Ablation studies` · `Error analysis` · `Domain-shift analysis` · `Reproducible evaluation` |
 
-**NLP & Information Retrieval**  
-Transformers · Hugging Face · BERT / RoBERTa / CamemBERT · TF-IDF / SVM · passage retrieval · ranking · relevance feedback
+### Core stack
 
-**Computer Vision & Image Analysis — coursework**  
-Image processing · filtering & denoising · edge detection · segmentation · CNNs · Vision Transformers · self-supervised learning · diffusion models · robustness · transfer learning · domain adaptation
-
-**Knowledge & Reasoning**  
-Knowledge representation · logic-based AI · knowledge graphs · RDF · symbolic reasoning · neuro-symbolic AI
-
-**Data & experimentation**  
-pandas · NumPy · Jupyter · Kaggle · grouped validation · ablation studies · error analysis · reproducible experiments
+`Python` · `PyTorch` · `scikit-learn` · `Hugging Face Transformers` · `LightGBM` · `XGBoost` · `pandas` · `NumPy` · `Jupyter` · `Git` · `Kaggle`
 
 ---
-
 
 ## Education
 
